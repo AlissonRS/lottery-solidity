@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "esModuleInterop": true,
+        "outDir": "./lib",
+        "rootDir": "./test"
+    },
+    "include": [
+        "test/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
